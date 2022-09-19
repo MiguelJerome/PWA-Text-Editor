@@ -1,5 +1,5 @@
 # Text Editor PWA
-![Text Editor PWA]() 
+![Text Editor PWA]( ) 
 
 ## Table of Contents
 * [Text Editor PWA](#Text-Editor-PWA)
