@@ -15,7 +15,11 @@
 * This is PWA for a text editor that runs in the browser. This app will be a single-page application, and this application will also function offline.
 
 ## Installation instructions
-![NPM-Package]() 
++ NPM package requires for this project are :
+* webpack
+* HtmlWebpackPlugin
+* idb
+* Workbox
 
 
 ## Usage Information
