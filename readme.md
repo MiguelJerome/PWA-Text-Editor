@@ -27,7 +27,7 @@
 
 ## Contribution Guidelines
 * This is a final product that is ready to be used.
-* [Text-Editor-PWA-Ressources Git Hub](https://github.com/MiguelJerome/Social-Network-Api)
+* [Text-Editor-PWA-Ressources Git Hub](https://github.com/MiguelJerome/PWA-Text-Editor)
 
 ## Test Instructions
 * This Text Editor PWA works is also ready to be used and features several valuable methods for storing and retrieving data.
